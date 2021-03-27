@@ -5,7 +5,8 @@
 ## 📚 Markdown Syntax for Tables 
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.
 
-<!--## 🎉 Demo --> 
+## 🎉 Demo 
+<p align="center"><img src="https://imgur.com/e8Gnq5j.gif" alt="demo" width=80%></p>
 
 ## ✨ Requirements
 - python 3
